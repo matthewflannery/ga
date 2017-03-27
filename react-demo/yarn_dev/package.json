@@ -1,0 +1,10 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
